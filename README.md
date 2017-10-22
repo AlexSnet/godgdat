@@ -1,0 +1,2 @@
+# godgdat
+Golang dgdat parser
